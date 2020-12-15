@@ -1,0 +1,26 @@
+body {
+  background-image: url("imgs/background.png");
+  color: white;
+  font-family: "Garamond", Times, serif;
+}
+.survey-div {
+  border: 1px solid grey;
+  border-radius: 5px;
+  box-shadow: 10px 25px 30px grey;
+  padding: 20px;
+  display: block;
+  width: 50%;
+  margin: 20px auto;
+  background-color: #022a5b;
+}
+.descContainer {
+  margin: 5%;
+  text-align: center;
+}
+#description {
+  font-size: 1.3em;
+}
+label {
+  font-size: 1.1em;
+  font-weight: 600;
+}
